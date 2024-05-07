@@ -1,0 +1,30 @@
+[
+    {
+        "clientes": [
+            {
+                "user": "luis123",
+                "contraseña": "l123",
+                "nombre": "luis",
+                "apellido": "caicedo",
+                "direccion": "cll-12",
+                "contacto": 3123498765,
+                "categoria": "",
+                "servicios": {}
+            },
+            {
+                "user": "miguel123",
+                "contraseña": "m123",
+                "nombre": "miguel",
+                "apellido": "bermon",
+                "direccion": "cll-16",
+                "contacto": 347283940,
+                "categoria": "",
+                "servicios": {}
+            }
+        ]
+    },
+    {
+        "admin": "admin",
+        "contraseña": "1234"
+    }
+]
